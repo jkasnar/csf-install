@@ -1,2 +1,2 @@
 # csf-install
-This script installs CSF on CentOS7
+This script will download and install CSF on your CentOS machine.
