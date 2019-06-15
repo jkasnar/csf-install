@@ -15,7 +15,6 @@ download_install_csf()
 {
   wget https://download.configserver.com/csf.tgz -P /usr/src/
   tar -xzf /usr/src/csf.tgz --directory /usr/src/
-  cd /usr/src/csf/
   sh /usr/src/csf/install.sh
 }
 
